@@ -1,6 +1,6 @@
 {
   "name": "vue-paginate-z",
-  "version": "1.0.0",
+  "version": "1.0.0-alz",
   "description": "vue paginate (typescript)",
   "main": "dist/index.js",
   "browser": "dist/index.esm.js",
